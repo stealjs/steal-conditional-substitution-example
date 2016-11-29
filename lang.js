@@ -1,6 +1,5 @@
 const locales = ['en', 'es', 'hi', 'zh', 'ar'];
 
-export const cases = locales;
 export default locales[getRandomInt(0, locales.length)];
 
 /**
