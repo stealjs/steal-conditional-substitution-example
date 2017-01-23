@@ -1,1 +1,1 @@
-# steal-conditional-interpolation-example
+# steal-conditional I18n demo
