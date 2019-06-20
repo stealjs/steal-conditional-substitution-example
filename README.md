@@ -1,5 +1,7 @@
 # steal-conditional string substitution demo
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/stealjs/steal-conditional-substitution-example.svg)](https://greenkeeper.io/)
+
 Example app using steal-conditional's [string substitution syntax](http://stealjs.com/docs/StealJS.guides.substitution_conditional_loading.html) to perform internationalization
 
 The file structure of this demo looks like this:
